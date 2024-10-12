@@ -1,0 +1,32 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     45.42314852 deg
+Longitude:    -75.70729050 deg
+Altitude ASL: 268.6754 m (881.4809 ft)
+39Heading:      154.2 deg
+Ground Elev:  39.9989 m (131.2301 ft)
+
+# w080n40/w076n45/1712601.stg
+OBJECT_STATIC -75.70729050 45.42314852 39.9989 205.8
+
+http://maps.google.com/maps?ll=45.4231485249,-75.7072904963&z=12&t=h
+$ fgfs --aircraft=ufo --lat=45.423149 --lon=-75.707290 --altitude=881.48 --heading=154.2
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/parliament/centre-block/centre-block.ac
+Latitude:     45.42515612 deg
+Longitude:    -75.69990024 deg
+Altitude ASL: 81.9787 m (268.9590 ft)
+Heading:      -111.7 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/parliament/centre-block/centre-block.ac -75.69990024 45.42515612 81.9787 111.7 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/parliament/centre-block/centre-block.ac -75.69990024 45.42515612 81.9787 111.7 -31.3 0.0 -0.0
