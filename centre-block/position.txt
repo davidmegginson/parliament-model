@@ -26,7 +26,7 @@ Roll:        -0.0 deg
 ------------------------------------------------------------------
 
 # Lines for stg
-OBJECT_SHARED /home/david/Models/parliament/centre-block/centre-block.ac -75.69990024 45.42515612 81.9787 111.7 0.0 -0.0
+OBJECT_SHARED /home/david/Models/parliament/centre-block/centre-block.ac -75.69990024 45.42515612 81.9787 123.0 0.0 -0.0
 
 # Lines for upload form
-OBJECT_SHARED /home/david/Models/parliament/centre-block/centre-block.ac -75.69990024 45.42515612 81.9787 111.7 -31.3 0.0 -0.0
+OBJECT_SHARED /home/david/Models/parliament/centre-block/centre-block.ac -75.69990024 45.42515612 81.9787 123.0 -31.3 0.0 -0.0

@@ -1,0 +1,32 @@
+
+
+------------------------------ UFO -------------------------------
+Latitude:     45.42364262 deg
+Longitude:    -75.70459938 deg
+Altitude ASL: 333.8396 m (1095.2744 ft)
+39Heading:      161.6 deg
+Ground Elev:  39.9993 m (131.2314 ft)
+
+# w080n40/w076n45/1712601.stg
+OBJECT_STATIC -75.70459938 45.42364262 39.9993 198.4
+
+http://maps.google.com/maps?ll=45.4236426174,-75.7045993763&z=12&t=h
+$ fgfs --aircraft=ufo --lat=45.423643 --lon=-75.704599 --altitude=1095.27 --heading=130.5
+
+
+------------------------ Selected Object -------------------------
+Path:         /home/david/Models/parliament/parliamentary-library/parliamentary-library.ac
+Latitude:     45.42547348 deg
+Longitude:    -75.70021774 deg
+Altitude ASL: 88.1903 m (289.3382 ft)
+Heading:      0.0 deg
+Pitch:        0.0 deg
+Roll:        -0.0 deg
+
+------------------------------------------------------------------
+
+# Lines for stg
+OBJECT_SHARED /home/david/Models/parliament/parliamentary-library/parliamentary-library.ac -75.70021774 45.42547348 88.1903 0.0 0.0 -0.0
+
+# Lines for upload form
+OBJECT_SHARED /home/david/Models/parliament/parliamentary-library/parliamentary-library.ac -75.70021774 45.42547348 88.1903 0.0 -0.3 0.0 -0.0
