@@ -5,6 +5,10 @@ These are a Public Domain, low-polygon models of the Canadian Parliament Buildin
 
 This model is intended initially for use in the open-source [FlightGear flight simulator](https://flightgear.org), but is free for anyone to use.
 
+## Models
+
+- Centre Block
+- Parliamentary Library
 
 ## Author
 
