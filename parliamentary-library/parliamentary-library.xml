@@ -7,6 +7,7 @@
     <inherits-from>/Effects/model-combined-deferred</inherits-from>
     <parameters>
       <lightmap-enabled type="int">1</lightmap-enabled>
+      <lightmap-factor><use>/environment/lightmap-factor</use></lightmap-factor>
       <texture n="3">
         <image>parliamentary-library2.png</image>
       </texture>
