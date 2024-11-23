@@ -8,6 +8,8 @@ This model is intended initially for use in the open-source [FlightGear flight s
 
 ![Screenshot of models in FlightGear.](screenshot.png)
 
+Closest airfield: [Rockcliffe](https://ourairports.com/airports/CYRO/) (CYRO).
+
 ## Models
 
 - Centre Block
